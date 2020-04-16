@@ -1,0 +1,15 @@
+
+Git and GitHub
+
+-Git and GitHub are separate
+-Git is a version control system (VCS)
+-Git commands can be typed directly into terminal
+    -git config --global user.name "Your Name"
+    -git config --global user.email "your@email.com"
+        These commands are so git can show the name/email of the person who made the change on the .git file.
+    -git init is the command to create a hidden .git file that will track the project
+        (must make sure you are in the parent/project folder you want to track).
+
+Useful Terminal Commands (Mac)
+
+ls -a : list files, including hidden ones (useful to verify .git file was created)
