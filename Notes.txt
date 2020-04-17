@@ -20,3 +20,15 @@ Useful Terminal Commands (Mac)
 
 ls -a : list files, including hidden ones (useful to verify .git file was created)
 -touch XXXXXXX.xxx creates a file
+cd .. moves up a folder
+
+
+Python
+
+-Use spaces in code, not tabs (text editors can be formatted to put spaces when tab is pressed)
+
+Interpreter and Compiler
+
+-An interpreter is the interface between high level human and high level machine language. Python is an interpreter.
+-A compiler interprets high level code into machine code
+-Executable files (.exe, etc) are machine language (compiler language) copies to one another
